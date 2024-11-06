@@ -415,6 +415,6 @@ def create_gradio_interface():
         }
         """
     )
-    demo.launch()
-    #demo.launch(server_name="0.0.0.0", server_port=7860)
+    #demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=7860)
 create_gradio_interface()
