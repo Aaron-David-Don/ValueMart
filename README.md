@@ -9,3 +9,6 @@
 
 3. **ScrapeAmazon.py**
    - This code helps user scrape Amazon and get their price image url etc and saves it in csv
+
+4. **ScrapeFlipkart.py**
+   - This code helps user scrape Flipkart and get their price image url etc and saves it in csv
