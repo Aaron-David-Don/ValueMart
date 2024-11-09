@@ -6,3 +6,6 @@
 
 2. **Web_Content_Playwright.py**
    - This is a basic playwright code that scrapes a url and provides info present in a given tag
+
+3. **ScrapeAmazon.py**
+   - This code helps user scrape Amazon and get their price image url etc and saves it in csv
