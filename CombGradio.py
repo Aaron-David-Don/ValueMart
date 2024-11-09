@@ -1,7 +1,6 @@
 #This is scrapes both amazon and flipkart with the help of playwright that looks for the specified tags 
-#present in different UI of both amazon and flipkart and
-#Inserts these data to a csv and sorts it in ascending order wrt to its price and with the help of 
-#gradio, we host it as a website
+#present in different UI of both amazon and flipkart and inserts these data to a csv and sorts it in ascending 
+#order wrt to its price and with the help of gradio, we host it as a website
 import asyncio
 from playwright.async_api import async_playwright
 import csv
